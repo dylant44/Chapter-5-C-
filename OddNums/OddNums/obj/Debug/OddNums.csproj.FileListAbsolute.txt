@@ -1,0 +1,7 @@
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\OddNums\OddNums\bin\Debug\OddNums.exe.config
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\OddNums\OddNums\bin\Debug\OddNums.exe
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\OddNums\OddNums\bin\Debug\OddNums.pdb
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\OddNums\OddNums\obj\Debug\OddNums.csproj.CoreCompileInputs.cache
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\OddNums\OddNums\obj\Debug\OddNums.exe
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\OddNums\OddNums\obj\Debug\OddNums.pdb
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\OddNums\OddNums\obj\Debug\OddNums.csprojAssemblyReference.cache

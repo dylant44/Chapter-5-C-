@@ -1,0 +1,7 @@
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\TippingTable\TippingTable\bin\Debug\TippingTable.exe.config
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\TippingTable\TippingTable\bin\Debug\TippingTable.exe
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\TippingTable\TippingTable\bin\Debug\TippingTable.pdb
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\TippingTable\TippingTable\obj\Debug\TippingTable.csprojAssemblyReference.cache
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\TippingTable\TippingTable\obj\Debug\TippingTable.csproj.CoreCompileInputs.cache
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\TippingTable\TippingTable\obj\Debug\TippingTable.exe
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\TippingTable\TippingTable\obj\Debug\TippingTable.pdb

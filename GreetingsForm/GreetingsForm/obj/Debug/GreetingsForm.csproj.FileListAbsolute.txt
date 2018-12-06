@@ -1,0 +1,10 @@
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\GreetingsForm\GreetingsForm\bin\Debug\GreetingsForm.exe.config
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\GreetingsForm\GreetingsForm\bin\Debug\GreetingsForm.exe
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\GreetingsForm\GreetingsForm\bin\Debug\GreetingsForm.pdb
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\GreetingsForm\GreetingsForm\obj\Debug\GreetingsForm.csprojAssemblyReference.cache
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\GreetingsForm\GreetingsForm\obj\Debug\GreetingsForm.Form1.resources
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\GreetingsForm\GreetingsForm\obj\Debug\GreetingsForm.Properties.Resources.resources
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\GreetingsForm\GreetingsForm\obj\Debug\GreetingsForm.csproj.GenerateResource.cache
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\GreetingsForm\GreetingsForm\obj\Debug\GreetingsForm.csproj.CoreCompileInputs.cache
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\GreetingsForm\GreetingsForm\obj\Debug\GreetingsForm.exe
+C:\Users\dt303271\Desktop\C#\Chapter 5 C#\GreetingsForm\GreetingsForm\obj\Debug\GreetingsForm.pdb
